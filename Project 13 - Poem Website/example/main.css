@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
+@import url(https://fonts.googleapis.com/css?family=Dancing+Script);
 
 body {
   background: rgba(20, 210, 227, 0.831);
@@ -12,7 +12,7 @@ h1 {
 
 p {
   font-size: px;
-  font-family: 'Indie Flower';
+  font-family: 'Dancing Script';
 }
 
 img {
